@@ -3,7 +3,7 @@ A Flask APP to view Pokemon Database
 
 Pokemon App
 
-This is a Flask-based web application that allows users to view a list of Pokemon and filter by color and type. Users can also register for an account to access additional features.
+This is a Flask-based web application that allows users to view a list of Pokemon and filter by color. Users can also register for an account, or login using their credentials.
 
 Installation
 
