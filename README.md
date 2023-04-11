@@ -23,3 +23,6 @@ DATABASE_URL=sqlite:///your_database.db
 
 
 The application will be accessible at http://localhost:5000
+
+
+TypeScript and React Attmpt zip file is incomplete, and will not run properly
