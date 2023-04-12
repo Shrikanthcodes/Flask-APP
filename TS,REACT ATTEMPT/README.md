@@ -1,0 +1,1 @@
+Theclient side build worked properly, but the color change according to choice was not reflected properly
