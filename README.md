@@ -24,5 +24,6 @@ DATABASE_URL=sqlite:///your_database.db
 
 The application will be accessible at http://localhost:5000
 
+(Added screenshots to demonstrate the working of this simple app)
 
 TypeScript and React Attempt zip file is incomplete, and will not run properly
